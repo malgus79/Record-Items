@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Record Items App</string>
+
+    <string name="arg_id" translatable="false">key_id</string>
+
+    <string name="dialog_delete_title">¿Delete record?</string>
+    <string name="dialog_delete_confirm">Delete</string>
+    <string name="dialog_delete_cancel">Cancel</string>
+    <string name="dialog_options_title">¿What would you like to do?</string>
+
+    <string name="description_img_photo">Record image</string>
+    <string name="description_record_add">Create record</string>
+
+    <string name="edit_record_title_edit">Edit record</string>
+    <string name="edit_record_message_update_success">Record update</string>
+    <string name="edit_record_message_valid">Review the required fields.</string>
+    <string name="edit_record_message_save_success">Record successfully added.</string>
+    <string name="edit_record_title_add">Create record</string>
+
+    <string name="hint_name">record name´s</string>
+    <string name="hint_phone">telephone</string>
+    <string name="hint_website">url del sitio web</string>
+    <string name="hint_photo_url">url de la imagen</string>
+
+    <string name="helper_required">Required</string>
+
+    <string name="menu_save">Save</string>
+
+    <string name="main_error_no_website">This record does not have a website.</string>
+    <string name="main_error_no_resolve">No compatible app found.</string>
+    <string name="main_error_get">Error querying data.</string>
+    <string name="main_error_insert">Error inserting.</string>
+    <string name="main_error_update">Failed to update.</string>
+    <string name="main_error_delete">Failed to delete.</string>
+    <string name="main_error_unknown">unknown error.</string>
+
+    <string name="options_item_call">To call</string>
+    <string name="options_item_website">Go to website</string>
+    <string name="menu_search">Search</string>
+    <string name="icon_search">Search icon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_a_record">Search a record</string>
+</resources>

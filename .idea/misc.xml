@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gamcb/Archivos Android/RecordItemsApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.347" />
+        <entry key="..\:/Users/gamcb/Archivos Android/RecordItemsApp/app/src/main/res/drawable/ic_add_business.xml" value="0.124" />
+        <entry key="..\:/Users/gamcb/Archivos Android/RecordItemsApp/app/src/main/res/drawable/ic_app_registration.xml" value="0.148" />
+        <entry key="..\:/Users/gamcb/Archivos Android/RecordItemsApp/app/src/main/res/drawable/ic_favorite.xml" value="0.347" />
+        <entry key="..\:/Users/gamcb/Archivos Android/RecordItemsApp/app/src/main/res/drawable/ic_image.xml" value="0.347" />
+        <entry key="..\:/Users/gamcb/Archivos Android/RecordItemsApp/app/src/main/res/drawable/ic_library_add.xml" value="0.347" />
+        <entry key="..\:/Users/gamcb/Archivos Android/RecordItemsApp/app/src/main/res/drawable/ic_link.xml" value="0.347" />
+        <entry key="..\:/Users/gamcb/Archivos Android/RecordItemsApp/app/src/main/res/drawable/ic_local_phone.xml" value="0.347" />
+        <entry key="..\:/Users/gamcb/Archivos Android/RecordItemsApp/app/src/main/res/drawable/ic_playlist_add.xml" value="0.347" />
+        <entry key="..\:/Users/gamcb/Archivos Android/RecordItemsApp/app/src/main/res/drawable/ic_store.xml" value="0.347" />
+        <entry key="..\:/Users/gamcb/Archivos Android/RecordItemsApp/app/src/main/res/drawable/states_cb_favorite.xml" value="0.347" />
+        <entry key="..\:/Users/gamcb/Archivos Android/RecordItemsApp/app/src/main/res/layout/activity_main.xml" value="0.31068840579710144" />
+        <entry key="..\:/Users/gamcb/Archivos Android/RecordItemsApp/app/src/main/res/layout/activity_search_record.xml" value="0.16843971631205673" />
+        <entry key="..\:/Users/gamcb/Archivos Android/RecordItemsApp/app/src/main/res/layout/fragment_edit_record.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/gamcb/Archivos Android/RecordItemsApp/app/src/main/res/layout/fragment_edit_store.xml" value="0.16843971631205673" />
+        <entry key="..\:/Users/gamcb/Archivos Android/RecordItemsApp/app/src/main/res/layout/fragment_search_record.xml" value="0.1082427536231884" />
+        <entry key="..\:/Users/gamcb/Archivos Android/RecordItemsApp/app/src/main/res/layout/item_record.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/gamcb/Archivos Android/RecordItemsApp/app/src/main/res/layout/item_store.xml" value="0.16843971631205673" />
+        <entry key="..\:/Users/gamcb/Archivos Android/RecordItemsApp/app/src/main/res/menu/menu_save.xml" value="0.2212962962962963" />
+        <entry key="..\:/Users/gamcb/Archivos Android/RecordItemsApp/app/src/main/res/menu/menu_search.xml" value="0.3494791666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

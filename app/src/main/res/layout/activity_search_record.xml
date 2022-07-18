@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".view.SearchRecord"
+    android:background="@color/white">
+
+  <com.google.android.material.appbar.AppBarLayout
+      android:id="@+id/appBarLayout"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/topAppBar"
+        style="@style/Widget.MaterialComponents.Toolbar.Primary"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:title="Buscar registro"
+        app:titleTextColor="@color/white">
+
+    </com.google.android.material.appbar.MaterialToolbar>
+  </com.google.android.material.appbar.AppBarLayout>
+
+  <androidx.appcompat.widget.LinearLayoutCompat
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal"
+      android:background="@color/grey"
+      >
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@color/grey"
+        android:src="@drawable/ic_search"
+        android:layout_marginStart="10dp"
+        android:contentDescription="@string/icon_search"/>
+
+
+    <EditText
+        android:id="@+id/et_search"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#000000"
+        android:inputType="textCapWords"
+        android:backgroundTint="@color/grey"
+        android:textColor="@color/white"
+        android:hint="@string/search_a_record"
+        android:textColorHint="@color/text_grey"
+        android:autofillHints="name"/>
+
+  </androidx.appcompat.widget.LinearLayoutCompat>
+</androidx.appcompat.widget.LinearLayoutCompat>

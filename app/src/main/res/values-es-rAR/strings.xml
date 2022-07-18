@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registro de elementos</string>
+
+    <string name="dialog_delete_title">¿Eliminar registro?</string>
+    <string name="dialog_delete_confirm">Eliminar</string>
+    <string name="dialog_delete_cancel">Cancelar</string>
+    <string name="dialog_options_title">¿Que desea hacer?</string>
+
+    <string name="description_img_photo">Imagen del registro</string>
+    <string name="description_record_add">Crear registro</string>
+
+    <string name="edit_record_title_edit">Editar registro</string>
+    <string name="edit_record_message_update_success">Registro actualizado</string>
+    <string name="edit_record_message_valid">Revise los campos requeridos.</string>
+    <string name="edit_record_message_save_success">Registro agregado correctamente.</string>
+    <string name="edit_record_title_add">Crear registro</string>
+
+    <string name="hint_name">nombre del registro</string>
+    <string name="hint_phone">teléfono</string>
+    <string name="hint_website">url del sitio web</string>
+    <string name="hint_photo_url">url de la imagen</string>
+
+    <string name="helper_required">Requerido</string>
+
+    <string name="menu_save">Guardar</string>
+
+    <string name="main_error_no_website">Este registro no cuenta con un sitio web.</string>
+    <string name="main_error_no_resolve">No se encontró ninguna app compatible</string>
+    <string name="main_error_get">Error al consultar datos.</string>
+    <string name="main_error_insert">Error al insertar.</string>
+    <string name="main_error_update">Error al actualizar.</string>
+    <string name="main_error_delete">Error al eliminar.</string>
+    <string name="main_error_unknown">Erorr desconocido.</string>
+
+    <string name="options_item_call">Llamar</string>
+    <string name="options_item_website">Ir al sition web</string>
+</resources>
