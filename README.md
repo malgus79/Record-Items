@@ -1,4 +1,4 @@
-# Record Item App
+# Record Item
 
 Aplicación para guardar registros que contenga nombre, telefono, pagina web y/o imagen.
 Una vez grabados, se podra acceder con un solo click hacia la navegacion de su website o llamar a su numero telefónico.
